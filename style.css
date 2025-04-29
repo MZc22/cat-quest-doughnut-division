@@ -1,0 +1,9 @@
+
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #fff0f5;
+    text-align: center;
+}
+#game-container {
+    margin-top: 20px;
+}
